@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 🔭 I am currently working on a project at Cogito NTNU, where we are integrating OpenAI's GPT-3.5 with DALL·E 3.
  
 
-<h2> 🧑‍💻 Tech I work on: </h2>
+<h2> 🧑‍💻 Tech I've Worked On: </h2>
 
 <div align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python"     width="65 height="65"/>
