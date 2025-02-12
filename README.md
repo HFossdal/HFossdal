@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## About Me:
 
  I'm a student at **NTNU Trondheim** pursuing Applied Physics and Mathematics, spezializing in **Industrial Mathematics**.  <br> <br>
-🔭 I am currently working on a project at Cogito NTNU, where we are integrating OpenAI's GPT-3.5 with DALL·E 3.
+
  
 
 <h2> 🧑‍💻 Tech I've Worked On: </h2>
