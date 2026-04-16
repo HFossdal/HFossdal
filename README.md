@@ -31,7 +31,7 @@ AI-powered audio analysis for technical meetings, lectures, and research discuss
 Built to transcribe long recordings, extract summaries and action items, support Q&A over audio, export structured outputs, and benchmark transcription systems in a more production-minded workflow.
 
 ### [Time-stretching using the gradient theorem in Fourier analysis](https://hfossdal.com/reports/tma4500.pdf)
-My major project report on audio time-stretching in the STFT domain, with a focus on spectrogram interpolation, phase reconstruction, and neural approaches for improving audio quality.
+Specialization project on STFT-based speech time-stretching using neural phase-difference prediction (FPD/BPD) and least-squares phase reconstruction, extended with a stretch-aware teacher–student model for improved robustness at larger stretch factors.
 
 ### [MarketingAI](https://github.com/CogitoNTNU/MarketingAI)
 A project for automatically generating poster imagery and text from user input, combining the generated elements into a cohesive marketing-style output.
