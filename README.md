@@ -1,63 +1,43 @@
-## Hi there 👋
+# Hi, I'm Håvard Fossdal
 
-<!--
-**HFossdal/HFossdal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year M.Sc. student in Industrial Mathematics at NTNU, specialising in statistics, machine learning, and optimisation.  
+Interested in applied AI, audio ML, quantitative modelling, and production-minded machine learning systems.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- M.Sc. in Applied Physics and Mathematics at NTNU
+- Exchange student at UC Berkeley
+- Background in machine learning, statistics, optimisation, and data-driven problem solving
+- Interested in building ML systems that are both technically strong and useful in practice
 
-<div align="center">
+## Current focus
 
-</div>
+- Master’s thesis on deep learning for spectrogram inpainting and audio reconstruction
+- Audio ML, signal processing, and model evaluation
+- Applied machine learning and quantitative engineering
 
-## About Me:
+## Tech
 
- I'm a student at **NTNU Trondheim** pursuing Applied Physics and Mathematics, spezializing in **Industrial Mathematics**.  <br> <br>
+**Languages & tools**  
+Python · PyTorch · SQL · R · Git · C++ · Docker · Linux
 
- 
+**Areas I've worked on**  
+Machine Learning · Deep Learning · Audio Processing · Statistical Modelling · Optimisation · Data Engineering
 
-<h2> 🧑‍💻 Tech I've Worked On: </h2>
+## Featured work
 
-<div align="center">
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python"     width="65 height="65"/>
-      <img src="https://github.com/SverreNystad/SverreNystad/assets/89105607/5dcbef68-921d-4897-a5cd-67c3ce2f171b" alt="openai" width="75" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT"      width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" width="65 height="65">
-      <img src="logos/cpp_logo.svg"width="65" height="65">
+### [Technical Audio Copilot](https://github.com/HFossdal/technical-audio-copilot)
+AI-powered audio analysis for technical meetings, lectures, and research discussions.  
+Built to transcribe long recordings, extract summaries and action items, support Q&A over audio, export structured outputs, and benchmark transcription systems in a more production-minded workflow.
 
-      
-  
-</div>
+### [Time-stretching using the gradient theorem in Fourier analysis](https://hfossdal.com/reports/tma4500.pdf)
+My major project report on audio time-stretching in the STFT domain, with a focus on spectrogram interpolation, phase reconstruction, and neural approaches for improving audio quality.
 
+### [MarketingAI](https://github.com/CogitoNTNU/MarketingAI)
+A project for automatically generating poster imagery and text from user input, combining the generated elements into a cohesive marketing-style output.
 
+## Connect
 
-
-<details>
-  <summary><strong>🚀 Cool Projects I've Worked On</strong></summary>
-  <br>
-  
-  <div align="center">
-
-
-
-
-  <!-- Project 1: Marketing-AI -->
-  <h3><a href="https://github.com/CogitoNTNU/MarketingAI">MarketingAI</a></h3>
-  <p>
-    A software that autonomously generates relevant imagery and accompanying text for a marketing or propaganda poster based on user input. Try it out by visiting us at https://www.cogito-ntnu.no/projects/h2023/marketingAI
-    <br><img src="https://camo.githubusercontent.com/e665074212182242d970ec921ddb92386e248e22c0d650d5d79beee752d93fd0/68747470733a2f2f61746c6173696d6167657367616c6c6572792e626c6f622e636f72652e77696e646f77732e6e65742f696d616765732f4d61726b6574696e6741494c6f676f2e706e67" width="200"> 
-  </p>
-
-
-  
-</div>
-</details>
+- [LinkedIn](https://linkedin.com/in/hfossdal)
+- [Website](https://hfossdal.com)
+- Email: ha.fossdal@gmail.com
