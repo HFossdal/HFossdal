@@ -1,11 +1,11 @@
 # Hi, I'm Håvard Fossdal
 
-M.Sc. graduate in Applied Physics and Mathematics from NTNU, specialising in statistics and machine learning.  
+M.Sc. graduate in Applied Physics and Mathematics from NTNU, specialising in Industrial Mathematics (statistics and machine learning).  
 Interested in training and adapting speech and language models, audio ML, and production-minded machine learning systems.
 
 ## About me
 
-- M.Sc. in Applied Physics and Mathematics, NTNU (2026)
+- M.Sc. in Applied Physics and Mathematics (Industrial Mathematics), NTNU (2026)
 - Exchange student at UC Berkeley
 - Background in machine learning, statistics, optimisation, and data-driven problem solving
 - Interested in building ML systems that are both technically strong and useful in practice
@@ -29,7 +29,7 @@ Team project (4 people): real-time voice interface to a Mistral coding agent, wi
 
 ### [Technical Audio Copilot](https://github.com/HFossdal/technical-audio-copilot)
 AI-powered audio analysis for technical meetings, lectures, and research discussions.  
-Built to transcribe long recordings, extract summaries and action items, support Q&A over audio, export structured outputs, and benchmark transcription systems in a more production-minded workflow.
+Built to transcribe long recordings, extract summaries and action items, support Q&A over audio, export structured outputs.
 
 ### [Time-stretching using the gradient theorem in Fourier analysis](https://hfossdal.com/reports/tma4500.pdf)
 Specialization project on STFT-based speech time-stretching using neural phase-difference prediction (FPD/BPD) and least-squares phase reconstruction, extended with a stretch-aware teacher–student model for improved robustness at larger stretch factors.
