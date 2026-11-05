@@ -25,8 +25,7 @@ Machine Learning · Deep Learning · Speech Recognition · Audio Processing · S
 LoRA fine-tuning of Mistral's open Voxtral models for Norwegian. Cut test WER from 21.3% zero-shot to 5.9% on unseen speakers, ahead of Mistral's API transcription model (10.7%), with bootstrap confidence intervals and error analysis by dialect, numbers and names.
 
 ### [Mistral AI Hackathon: voice coding assistant](https://github.com/mistral-hack-vah/mistral-vibe-rc)
-Team project (4 people): real-time voice interface to a Mistral coding agent, with live Voxtral transcription and spoken replies. I integrated the Mistral Vibe agent and streaming conversations into the backend and wrote end-to-end tests.
-
+Team project (4 people): real-time voice interface to a Mistral coding agent, with live Voxtral transcription and spoken replies.
 
 ### [Time-stretching using the gradient theorem in Fourier analysis](https://hfossdal.com/reports/tma4500.pdf)
 Specialization project on STFT-based speech time-stretching using neural phase-difference prediction (FPD/BPD) and least-squares phase reconstruction, extended with a stretch-aware teacher–student model for improved robustness at larger stretch factors.
