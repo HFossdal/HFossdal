@@ -13,6 +13,10 @@ Interested in training and adapting models, speech and audio ML, and time-series
 ## Featured work
 
 
+### [Timestral on Norwegian electricity demand](https://github.com/HFossdal/timestral-norway-load)
+
+Studied how context length affects Timestral’s temperature sensitivity and cold-snap forecasts across five Norwegian winters. Compared against Chronos-2, TimesFM 3.0, Moirai 2.0, conventional baselines and Statnett’s published day-ahead forecast, with uncertainty calibration and evaluations using archived weather forecasts.
+
 ### [Norwegian Speech Recognition with Voxtral](https://github.com/HFossdal/voxtral-norwegian)
 
 LoRA fine-tuning of Mistral’s open Voxtral models for Norwegian. Cut test WER from 21.3% zero-shot to 5.9% on 5,006 utterances from unseen speakers, compared with 10.7% for Mistral’s API transcription model on the same benchmark. Includes bootstrap confidence intervals and error analysis by dialect, numbers and names.
